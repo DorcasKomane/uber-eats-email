@@ -9,7 +9,7 @@ A recreation of Uber Eats email newsletter.
 
 ### Links
 
-- View **code** here: [https://github.com/DorcasKomane/uber-eats-email](https://github.com/DorcasKomane/uber-eats-email)
+- View **code** here: [https://github.com/DorcasKomane/uber-eats-email](https://github.com/DorcasKomane/uber-eats-email/)
 - View **live project** here: [https://uber-email.netlify.app](https://uber-email.netlify.app/)
 
 
